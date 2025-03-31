@@ -4246,6 +4246,11 @@ hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "78e86b01d4f72cda8d12660151c101b02f0ef1dbcfc5d73f6c8dba10fbd482ee"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "92d4db1c37b50135a998bd36f8aff6d87a2753616e03db3fdb9ff478c3e47e3b"
 metafile = true
@@ -4353,6 +4358,16 @@ metafile = true
 [[files]]
 file = "mods/entangled.pw.toml"
 hash = "07f4675d7bbf74292ba194982c1884578b65873929697fdcbd1ab908027e27e4"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "efb8a4921c466e737afaa484eca9aedc55c4be1d5647a3b447f961d66482faaf"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "f3e80a5b8992883cdad15ec2e431152ae67c48db3a131a7b1b5ce705da3f89f2"
 metafile = true
 
 [[files]]
@@ -5413,6 +5428,11 @@ metafile = true
 [[files]]
 file = "mods/ssr.pw.toml"
 hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "16f58761e68e7aebb845743220148ca5f5ab2b4dd8b58687909ce6edc5c6e967"
 metafile = true
 
 [[files]]
@@ -7520,3 +7540,18 @@ hash = "157a33d968ad30a59edae72d0a1b870a9d8b1867601f45494072f9773e7bc21d"
 [[files]]
 file = "packmenu/resources/pack.png"
 hash = "95f962993cd12a6130babe1f467b97bebcc70a46945bda4b37e134851e434adc"
+
+[[files]]
+file = "resourcepacks/better-cats-minecraft.pw.toml"
+hash = "9c4f5a09e13a1de08438881e2de408728bedff142b9a28e75a48aabe3346ff5d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-dogs.pw.toml"
+hash = "58c0d0181131d3131774429d3da5ebe1af1f738f95c1f319e12399b24e450967"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
+metafile = true

@@ -10,7 +10,6 @@ options.txt
 /patchouli_books
 patchouli_data.json
 realms_persistence.json
-/resourcepacks
 rhino.local.properties
 /saves
 /schematics
@@ -56,3 +55,4 @@ keys.txt
 /kubejs/CustomPackSettings.json
 kubejs/assets/ponderjs_generated/lang/en_us.json
 TrashSlotSaveState.json
+*.bak
