@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/bug_report.yaml"
+hash = "7fd02d52a0128d1307960b5e1b28d7fc0954e7d4924230d5344146a7dfc1976b"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/crash.yaml"
+hash = "42a8da9e3bb4430068acf31063da5104d885cc3b9292e8a98c4b2e41a7480da4"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/quest_issue.yaml"
+hash = "f88405025ffee01cd212338d5baf15e848577ee67c0fef92559f4e43d6f9edd2"
+
+[[files]]
+file = ".prettierrc"
+hash = "498f913069ae29b5578128efd140d5b753cdf2880152879001e3c949fef910b1"
+
+[[files]]
+file = "README.md"
+hash = "4b3a7d3b98e105aaf4572edd93015af63ce0d229c5c45d28211b1a2eec9cb169"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
 metafile = true
@@ -17,6 +37,10 @@ hash = "085b5684c75f3c434e412946c8d6e5bd4da0150d1d095e6355ca6b0f558035a7"
 [[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "fde7770b9e4f6ee44f3180052621e1e162190eba22b734889a6d1c7ba6e3d2a7"
 
 [[files]]
 file = "config/Mekanism/general.toml"
@@ -152,7 +176,7 @@ hash = "191bb0d121247bff00a6c7c419739719f3c552a99381854b8c24628230edc84a"
 
 [[files]]
 file = "config/defaultsettings.json"
-hash = "91e29f1cc5e2f3495839b9705e9c33482a5f77972031ff6fa9f6db111edddc84"
+hash = "f69fef77ababe3f577b6304ed0256adeb7936fb5d904240bd53e9809c82f602e"
 
 [[files]]
 file = "config/defaultsettings/Default/keys.txt"
@@ -160,7 +184,7 @@ hash = "11c3d02b04b273c2e14f108be041b8ff35d24c0c11e52d7f56e1d9177716feeb"
 
 [[files]]
 file = "config/defaultsettings/Default/options.txt"
-hash = "083ce95f3d8da669852ebe76227c7bfa93c138d735e785a4fc121e3f42171f62"
+hash = "0fad7621812a723e407a82d404ec9c27e9013f4206dcbfd763ca65bcd4e94022"
 
 [[files]]
 file = "config/emi.css"
@@ -1835,6 +1859,22 @@ file = "kubejs/data/apotheosis/bosses/the_other/zombified_piglin.json"
 hash = "3eeafef8ea813ddda960e1b22fdecf6f98a5adb963e0679e67d3341de3e15356"
 
 [[files]]
+file = "kubejs/data/apotheosis/gear_sets/the_other/diamond.json"
+hash = "365ab408737e1fd1bfd6ad78aebc60659ccfc311de7ea0ae25a534868f70aeb1"
+
+[[files]]
+file = "kubejs/data/apotheosis/gear_sets/the_other/diamond_bow.json"
+hash = "6475ed62fc9ff66f3db4e314cf2ab20119113068bef4313f7bfcb108885dbb65"
+
+[[files]]
+file = "kubejs/data/apotheosis/gear_sets/the_other/netherite.json"
+hash = "195f63992903126cf47bc15d4772216d20f71cd71acd1e196f2adf47bcc33dbd"
+
+[[files]]
+file = "kubejs/data/apotheosis/gear_sets/the_other/netherite_bow.json"
+hash = "2c4341e6638097255c411e708b5ed65b87df416c70d6159b404621ade11c5ef7"
+
+[[files]]
 file = "kubejs/data/apotheosis/recipes/spawner/ignore_players.json"
 hash = "2c91e18a9cb1b0422cae5c97cc5fee8c6f60b1b583115b71a1c2004dd42f1685"
 
@@ -3295,6 +3335,10 @@ file = "kubejs/server_scripts/mods/create/crushed_uranium.js"
 hash = "884d48c761a9cbf270cf331db4a12055a6abf122ef7b01d93fb6e696877d9152"
 
 [[files]]
+file = "kubejs/server_scripts/mods/croptopia/croptopia.js"
+hash = "a5ba5cf397c92585feeca008222068d1f171927a7a7fe68264e5e86f027cd709"
+
+[[files]]
 file = "kubejs/server_scripts/mods/deepresonance/deepresonance.js"
 hash = "863a42f82ae0e5c63e5dcf7ee65bd0d66bd759fa7587745d8b4905cfda3c96d5"
 
@@ -3457,6 +3501,10 @@ hash = "076ca77f1308ee596d1d228e778a0d5713e5e9721fd55aaaeeb7157e9dc9c104"
 [[files]]
 file = "kubejs/server_scripts/mods/silent_gear/salvager.js"
 hash = "8423dbda502ae592786deec7c218134f8ee9d4ab143693c923355523a7401c4e"
+
+[[files]]
+file = "kubejs/server_scripts/mods/sophisticated/sophisticated.js"
+hash = "2f64d5016b9ed81f040a113bda8437b61a0e49811acffd4e380d28e9162efd0d"
 
 [[files]]
 file = "kubejs/server_scripts/mods/structure_compass/structure_compass.js"
