@@ -1,0 +1,13 @@
+name = "All the Mods 9"
+author = "ATMTeam"
+version = "1.0.7"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bdeeba64d0868bfbef1b61ce0e9ff73a71fece5f158bd2d0ae41b5da6433df10"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
