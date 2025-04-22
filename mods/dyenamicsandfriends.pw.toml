@@ -1,13 +1,13 @@
 name = "Dyenamics and Friends"
-filename = "dyenamicsandfriends-1.20.1-1.9.0.jar"
+filename = "dyenamicsandfriends-1.20.1-1.9.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65208abaa6e655f38c3fdb8bcd366b2e5ebc8a5f"
+hash = "d4170013d2dca64a01715a2c844a8d6535876b8b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5789436
+file-id = 6447420
 project-id = 709617
