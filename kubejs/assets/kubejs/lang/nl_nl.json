@@ -70,6 +70,8 @@
   "atm9.chapters.57.title": "Pylons",
   "atm9.chapters.59.title": "Modular Routers",
   "atm9.chapters.60.title": "Basic Logistics",
+
+
     "atm9.quest.welcome.team": "Een team creëren",
     "atm9.quest.welcome.commands": "Handige commando's",
     "atm9.quest.welcome.welcome": "&dWelkom bij Alle Mods 9!",
@@ -79,8 +81,7 @@
     "atm9.quest.welcome.desc.team": "Als je een team voor jou en je vrienden wilt maken, gebruik dan het commando &a/ftbteams party create (naam van team)&r om het team aan te maken!",
     "atm9.quest.welcome.desc.commands": "Er zijn tal van nuttige opdrachten binnen ATM. Hier zijn er een paar: \\n \\n &e/sethome&r (naam van huis) | Laten we een huis instellen waar je naar terug kunt teleporteren met behulp van /home (naam). Voorbeeld: /sethome farm - teleporteer vervolgens met /home farm \\n \\n &e/spawn&r | Dit zal je teleporteren naar de spawn van je bovenwereld. \\n \\n &e/rtp&r | 'Random Teleport' teleporteert je naar een willekeurige locatie in de wereld. \\n \\n Opmerking: deze opdrachten hebben cooldowns en limieten. Als je ze wilt wijzigen, kun je het configuratiebestand bewerken dat je hier kunt vinden: \\n \\n - Voor singleplayer | &osaves/(naam van opslag)/serverconfig/ftbessentials.snbt&r \\n \\n - Voor servers | &oworld/serverconfig/ftbessentials.snbt&r",
     "atm9.quest.welcome.desc.welcome1": "ATM9 is een aanrechtpakket waarmee je de wereld van gemodificeerde Minecraft op je eigen manier kunt verkennen!",
-    "atm9.quest.welcome.desc.welcome2": "&lATM9 bevindt zich momenteel in de bètafase van de modpack-ontwikkeling&r. Mods worden toegevoegd of verwijderd zodra ze worden bijgewerkt.",
-    "atm9.quest.welcome.desc.welcome3": "Als je vragen of problemen hebt, sluit je dan gerust aan bij de ATM-discord!",
+    "atm9.quest.welcome.desc.welcome2": "Als je vragen of problemen hebt, sluit je dan gerust aan bij de ATM-discord!",
     "atm9.quest.welcome.desc.quests1": "In dit modpack zijn Quests optioneel. Mods staan ​​niet achter het voltooien van speurtochten!",
     "atm9.quest.welcome.desc.quests2": "De individuele missielijnen buiten de hoofdmissielijn zijn bedoeld als mod-gidsen. Als je de voortgang wilt volgen, bekijk dan zeker de hoofdmissielijn!",
     "atm9.quest.welcome.desc.quests3": "De meeste speurtochten in het pakket zijn ook gemaakt door &2AlfredGG&r. Quests zijn hard werken, dus als je hem wilt steunen, kun je hieronder op zijn spelersafbeelding klikken!",

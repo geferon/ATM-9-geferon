@@ -73,8 +73,7 @@
 	"atm9.quest.welcome.desc.team": "Hvis du vil lage et lag for deg og vennene dine, bruk kommandoen &a/ftbteams party create (navn på team)&r for å lage laget!    ",
 	"atm9.quest.welcome.desc.commands": "Det er mange nyttige kommandoer i ATM. Her er noen: \\n \\n &e/sethome&r (navn på hjemmet) | La oss angi et hjem som du kan teleportere tilbake til ved å bruke /home (navn). Eksempel: /sethome farm - deretter teleporter med /home farm \\n \\n &e/spawn&r | Dette vil teleportere deg til gyten til oververdenen din. \\n \\n &e/rtp&r | 'Random Teleport' vil teleportere deg til et tilfeldig sted i verden. \\n \\n Merk: Disse kommandoene har nedkjøling og begrensninger. Hvis du vil endre dem, kan du redigere konfigurasjonsfilen som finnes her: \\n \\n - For Singleplayer | &osaves/(navn på lagring)/serverconfig/ftbesentials.snbt&r \\n \\n - For servere | &oworld/serverconfig/ftbesentials.snbt&r",
 	"atm9.quest.welcome.desc.welcome1": "ATM9 er en kjøkkenvask-pakke som lar deg utforske verden av modifiserte Minecraft på din egen måte!    ",
-	"atm9.quest.welcome.desc.welcome2": "&lATM9 er for tiden i betastadiet av modpack-utvikling&r. Mods vil bli lagt til eller fjernet etter hvert som de blir oppdatert.    ",
-	"atm9.quest.welcome.desc.welcome3": "Hvis du har spørsmål eller problemer, kan du gjerne bli med i ATM-discorden!",
+	"atm9.quest.welcome.desc.welcome2": "Hvis du har spørsmål eller problemer, kan du gjerne bli med i ATM-discorden!",
 	"atm9.quest.welcome.desc.quests1": "I denne modpakken er oppdrag valgfrie. Mods er ikke lukket bak å fullføre noen oppdrag!",
 	"atm9.quest.welcome.desc.quests2": "De individuelle oppdragslinjene utenfor hovedoppdragslinjen er ment å tjene som mod-guider. Hvis du vil følge progresjonen, sørg for å sjekke ut hovedoppdragslinjen!    ",
 	"atm9.quest.welcome.desc.quests3": "De fleste av oppdragene i pakken er også laget av &2AlfredGG&r. Oppdrag er hardt arbeid, så hvis du vil støtte ham, kan du klikke på spillerbildet hans nedenfor!",
@@ -1843,7 +1842,7 @@
 
 
 	"atm9.quest.eidolonRepraised.desc.intro.1": "This is Eidolon. A Dark Magic Mod that encompasses rituals through Braziers and Soul Harvesting.",
-    "atm9.quest.eidolonRepraised.desc.intro.2": "You may have this book in the Akashic Tome, but creating this book will serve a special purpose.",
+    "atm9.quest.eidolonRepraised.desc.intro.2": "You may have this book in the Eccentric Tome, but creating this book will serve a special purpose.",
     "atm9.quest.eidolonRepraised.desc.intro.3": "You will need to throw this book at a Witch (yes, that hostile one), she'll add a Sign needed for later.",
     "atm9.quest.eidolonRepraised.desc.intro.4": "And then throw the book at a Cleric Villager. Your best bet of this is finding/crafting a Brewing Stand and placing a bed next to it for a Villager to change jobs.",
     "atm9.quest.eidolonRepraised.subt.darkArts": "Secrets of the Dark Arts",

@@ -77,8 +77,7 @@
 	"atm9.quest.welcome.desc.team": "Si quieres crear un grupo para tí y para tus amigxs, usa el comando &a/ftbteams party create (nombre del grupo)&r para crear un grupo!",
 	"atm9.quest.welcome.desc.commands": "Hay bastantes comandos utiles dentro de ATM. Aqui hay algunos: \\n \\n &e/sethome&r (nombre de tu base) | Te deja poner un punto de teletransporte a tu base /home (nombre de tu base). Ejemplo: /sethome granja - para teletransportarte usa /home granja \\n \\n &e/spawn&r | Este te permite teletransportarte al spawn de tu overworld. \\n \\n &e/rtp&r | 'Random Teleport' Te permite teletransportarte de forma aleatoria en tu mundo. \\n \\n Ten en cuenta: Estos comandos tiene un limite y un tiempo de espera. Si quieres cambiar estos, puedes editarlos en la configuracion: \\n \\n - Para Un Jugador | &osaves/(nombre de tu mundo)/serverconfig/ftbessentials.snbt&r \\n \\n - Para servidores | &oworld/serverconfig/ftbessentials.snbt",
 	"atm9.quest.welcome.desc.welcome1": "ATM9 es un kitchensink pack (mejor conocidos como packs sin progresion directa) los cuales te dejan empezar con cualquier mod sin ningun limite!",
-	"atm9.quest.welcome.desc.welcome2": "&lATM9 esta en fases de beta actualmente y todavia no esta terminado&r. Los mods se agregarán o eliminarán a medida que se actualicen.",
-	"atm9.quest.welcome.desc.welcome3": "Si tienes algun tipo de pregunta o problema, sientete bienvenidx a unirte al discord!",
+	"atm9.quest.welcome.desc.welcome2": "Si tienes algun tipo de pregunta o problema, sientete bienvenidx a unirte al discord!",
 	"atm9.quest.welcome.desc.quests1": "En este modpack, las Misiones son opcionales. Los Mods no están bloqueados para completar ninguna misión!",
 	"atm9.quest.welcome.desc.quests2": "Las misiones individuales de ciertos mods estan para servir como una guia. Si gustas seguir una progresion, asegurate de echarle un ojo a las misiones principales!",
 	"atm9.quest.welcome.desc.quests3": "La mayoría de las misiones del paquete también están hechas por &2AlfredGG&r. Las misiones son un trabajo duro, Así que si quieres apoyarlo, Puedes hacer clic en su imagen de jugador a continuación!",
@@ -1844,7 +1843,7 @@
 
 
     "atm9.quest.eidolonRepraised.desc.intro.1": "Esto es Eidolon. Un mod de Magia Oscura que abarca rituales a través de Braseros y Cosecha de Almas.",
-    "atm9.quest.eidolonRepraised.desc.intro.2": "Puedes tener este libro en el Akashic Tome, pero crear este libro tendrá un propósito especial.",
+    "atm9.quest.eidolonRepraised.desc.intro.2": "Puedes tener este libro en el Eccentric Tome, pero crear este libro tendrá un propósito especial.",
     "atm9.quest.eidolonRepraised.desc.intro.3": "Necesitarás arrojar este libro a una Bruja (sí, esa hostil), ella añadirá un Símbolo necesario para más tarde.",
     "atm9.quest.eidolonRepraised.desc.intro.4": "Luego arroja el libro a un Aldeano Clérigo. Tu mejor opción es encontrar/fabricar una Base de Poción y colocar una cama junto a ella para que un Aldeano cambie de trabajo.",
     "atm9.quest.eidolonRepraised.subt.darkArts": "Secretos de las Artes Oscuras",

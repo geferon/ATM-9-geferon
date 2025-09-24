@@ -1,0 +1,13 @@
+name = "Mekalus (Oculus fork with fixed Mekanism MekaSuit rendering)"
+filename = "mekalus-mc1.20.1-1.7.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67a81148fcc25a142bb3760e0d85515ed2739e11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6452434
+project-id = 1130957

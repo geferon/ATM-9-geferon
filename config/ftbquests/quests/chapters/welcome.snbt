@@ -34,7 +34,7 @@
 			description: [
 				"{atm9.quest.welcome.desc.welcome1}"
 				""
-				"{atm9.quest.welcome.desc.welcome3}"
+				"{atm9.quest.welcome.desc.welcome2}"
 			]
 			icon: "allthetweaks:atm_star"
 			id: "3BC0A50886A3222B"
@@ -166,9 +166,9 @@
 				"&9Portugese&r by &2oruiva&r."
 				"&9Japanese&r by &2fishlife1 (flll)&r."
 				"&9Korean&r by &2J-YonKen&r."
-				"&9German&r by &2Aquamatik&r"
-				"&9Dutch&r by &2NeofastFTL&r"
-				"&9Italian&r by &2Il-mostro-di-gioacchinopoli&r"
+				"&9German&r by &2Aquamatik&r."
+				"&9Dutch&r by &2NeofastFTL&r."
+				"&9Italian&r by &2Il-mostro-di-gioacchinopoli&r."
 			]
 			icon: {
 				Count: 1

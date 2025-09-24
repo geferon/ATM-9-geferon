@@ -43,7 +43,7 @@ GTCEuServerEvents.oreVeins(allthemods => {
             veinGen.maxYLevel(endY);
             var blocks = veinGen.getAllEntries()
             blocks.forEach((block) => {
-                veinGen.withBlock(new GTDikeBlockDefinition['(com.mojang.datafixers.util.Either,int,int,int)'](block.key, block.value, startY, endY))
+                veinGen.withBlock(new GTDikeBlockDefinition['(com.mojang.datafixers.util.Either,int,int,int)'](block.vein(), block.chance(), startY, endY))
             })
         } else if (veinGen instanceof $CuboidVeinGenerator) {
             veinGen = veinGen.copy()

@@ -2087,6 +2087,7 @@
 				xp: 10
 			}]
 			shape: "square"
+			subtitle: "I (53)"
 			tasks: [{
 				id: "444E63D97CDF7C73"
 				item: "chemlib:iodine"
@@ -2356,7 +2357,7 @@
 				xp: 10
 			}]
 			shape: "square"
-			subtitle: "Tl (81)_"
+			subtitle: "Tl (81)"
 			tasks: [{
 				id: "16C45C3F873DF66E"
 				item: "chemlib:thallium"
@@ -3303,6 +3304,7 @@
 				xp: 10
 			}]
 			shape: "square"
+			subtitle: "Md (101)"
 			tasks: [{
 				id: "791F518B2DDDA533"
 				item: "chemlib:mendelevium"

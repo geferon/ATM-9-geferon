@@ -791,7 +791,7 @@
 						items: [
 							{
 								Count: 1b
-								id: "blue_skies:horizonite_pickaxe"
+								id: "blue_skies:diopside_pickaxe"
 								tag: {
 									Damage: 0
 								}
@@ -805,25 +805,10 @@
 							}
 							{
 								Count: 1b
-								id: "blue_skies:diopside_pickaxe"
+								id: "blue_skies:horizonite_pickaxe"
 								tag: {
 									Damage: 0
 								}
-							}
-							{
-								Count: 1b
-								id: "mysticalagriculture:imperium_pickaxe"
-								tag: {
-									Damage: 0
-								}
-							}
-							{
-								Count: 1b
-								id: "mysticalagriculture:supremium_pickaxe"
-							}
-							{
-								Count: 1b
-								id: "mysticalagriculture:awakened_supremium_pickaxe"
 							}
 						]
 					}
@@ -925,6 +910,24 @@
 						items: [
 							{
 								Count: 1b
+								id: "twilightforest:steeleaf_pickaxe"
+								tag: {
+									Damage: 0
+									Enchantments: [{
+										id: "minecraft:fortune"
+										lvl: 2s
+									}]
+								}
+							}
+							{
+								Count: 1b
+								id: "twilightforest:knightmetal_pickaxe"
+								tag: {
+									Damage: 0
+								}
+							}
+							{
+								Count: 1b
 								id: "mysticalagriculture:inferium_pickaxe"
 								tag: {
 									Damage: 0
@@ -946,21 +949,14 @@
 							}
 							{
 								Count: 1b
-								id: "twilightforest:steeleaf_pickaxe"
+								id: "mysticalagriculture:imperium_pickaxe"
 								tag: {
 									Damage: 0
-									Enchantments: [{
-										id: "minecraft:fortune"
-										lvl: 2s
-									}]
 								}
 							}
 							{
 								Count: 1b
-								id: "twilightforest:knightmetal_pickaxe"
-								tag: {
-									Damage: 0
-								}
+								id: "mysticalagriculture:supremium_pickaxe"
 							}
 						]
 					}
@@ -3308,6 +3304,24 @@
 			}]
 			x: 0.0d
 			y: 5.0d
+		}
+		{
+			dependencies: ["5151CDD8FCDE7A07"]
+			id: "45EA31D08177B3D2"
+			optional: true
+			rewards: [{
+				id: "5E31985B4712DB80"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "{atm9.quest.tools.subt.tier5}"
+			tasks: [{
+				id: "765F1AC84FD1DBE1"
+				item: "mysticalagriculture:awakened_supremium_pickaxe"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
 		}
 	]
 	title: "{atm9.chapters.52.title}"
