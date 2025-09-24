@@ -1,14 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
-metafile = true
+file = ".github/ISSUE_TEMPLATE/bug_report.yaml"
+hash = "7fd02d52a0128d1307960b5e1b28d7fc0954e7d4924230d5344146a7dfc1976b"
 
 [[files]]
-file = "complementary-unbound.pw.toml"
-hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
-metafile = true
+file = ".github/ISSUE_TEMPLATE/crash.yaml"
+hash = "42a8da9e3bb4430068acf31063da5104d885cc3b9292e8a98c4b2e41a7480da4"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/quest_issue.yaml"
+hash = "f88405025ffee01cd212338d5baf15e848577ee67c0fef92559f4e43d6f9edd2"
+
+[[files]]
+file = ".prettierrc"
+hash = "498f913069ae29b5578128efd140d5b753cdf2880152879001e3c949fef910b1"
+
+[[files]]
+file = "README.md"
+hash = "4b3a7d3b98e105aaf4572edd93015af63ce0d229c5c45d28211b1a2eec9cb169"
 
 [[files]]
 file = "config/Advancedperipherals/peripherals.toml"
@@ -17,6 +27,10 @@ hash = "085b5684c75f3c434e412946c8d6e5bd4da0150d1d095e6355ca6b0f558035a7"
 [[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "fde7770b9e4f6ee44f3180052621e1e162190eba22b734889a6d1c7ba6e3d2a7"
 
 [[files]]
 file = "config/Mekanism/general.toml"
@@ -3671,11 +3685,6 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "df8e118b9ecaa22363e0d47c6a40bf546ccc430d19c542a047a74cd4de91be55"
 
 [[files]]
-file = "makeup-ultra-fast-shader.pw.toml"
-hash = "11819299dac3f5f387d1473fdddcbf2c897c33db06aa13b87a808ee9923de091"
-metafile = true
-
-[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
 metafile = true
@@ -4320,6 +4329,11 @@ hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "beffab64922193826f0aaca526ae38982f3277edec86c323b1f887b2b2e6529b"
+metafile = true
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "7a2a247aa884871d782f9914187ab4207f19bf74a41685b50324ea1c2942d222"
 metafile = true
@@ -4427,6 +4441,16 @@ metafile = true
 [[files]]
 file = "mods/entangled.pw.toml"
 hash = "07f4675d7bbf74292ba194982c1884578b65873929697fdcbd1ab908027e27e4"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "8b5f5b6a17242c5f61c8b7996231b543f8f30e103f47f0a8bc8fe727963ca6d1"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "8d53eeb22d21c1776c632ec9aee7479c3a70b5781fc38ea8edee8f081462655e"
 metafile = true
 
 [[files]]
@@ -4860,6 +4884,11 @@ hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
 metafile = true
 
 [[files]]
+file = "mods/little-contraptions.pw.toml"
+hash = "12e2744790fb10f73d06a259add54b9c17b886be896528deb16d41edfdbc8e5c"
+metafile = true
+
+[[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "d96ffbfb771b81f3c66e67f10479e27b43896b070ef3e78d5e3f8a6c6f3085cf"
 metafile = true
@@ -5155,6 +5184,11 @@ hash = "57f6793fdca748db18eb33a34344f68804e881af07c5e032073d8b33ee683a54"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "d070bdc77653aff6dfd6d052aed47255d0e4245b12113f980c167087901393a2"
+metafile = true
+
+[[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "51bf17db22eee5fb80da0b2efe87b846f1165bafc67a789782c5fd976c406ffa"
 metafile = true
@@ -5410,6 +5444,11 @@ hash = "ad9b4a1ae092976b5185218ff782ddd1c8567c59577840955b28439ef63c6bcc"
 metafile = true
 
 [[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "254939909870a670ac81ac8f09ffa7d7f519c49a2bc45e7b60d792b8cca996c7"
+metafile = true
+
+[[files]]
 file = "mods/sgjourney.pw.toml"
 hash = "df4ed860c6977cc729b00c970f92e57a09b913660937f8cd9142d5303f5ee492"
 metafile = true
@@ -5492,6 +5531,11 @@ metafile = true
 [[files]]
 file = "mods/ssr.pw.toml"
 hash = "c5a6d74a1097e541894f5dbdb10fa016a0239a60877f117b6e32df1fa7fee2b1"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "35d439ed465c6afe6edb1e33b858a7dd095d284968ea25e975c0f40eef257feb"
 metafile = true
 
 [[files]]
@@ -7604,3 +7648,38 @@ hash = "c92d7a6dc58ca7168bda2dfc3cc0a5acde7af7a4d2134ec54d2014ecf47d9928"
 [[files]]
 file = "packmenu/resources/pack.png"
 hash = "95f962993cd12a6130babe1f467b97bebcc70a46945bda4b37e134851e434adc"
+
+[[files]]
+file = "resourcepacks/better-cats-minecraft.pw.toml"
+hash = "b74ea72560e8727a466c6cb5cd6628537cff4a6fece6d04ee5aa9f6f7989bc4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-dogs.pw.toml"
+hash = "1d5790a5853fb1805d9ab06411265b24e10bfd5566883a8044742afc6519e6f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "372a403da8298e41215d4608c1c137adde965a2cf246fadf67a6a58cbbd2c147"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mekanism-ctm-w-fusion.pw.toml"
+hash = "64b68625c39c5deec836a0f3a9669648f97f95bab62109ad6fae26357a05e6ed"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "0ecc8df3b8cc35aaae4ea7757417a8050e99657e683e7b7e05410aeedfc28d0b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/makeup-ultra-fast-shader.pw.toml"
+hash = "11819299dac3f5f387d1473fdddcbf2c897c33db06aa13b87a808ee9923de091"
+metafile = true
