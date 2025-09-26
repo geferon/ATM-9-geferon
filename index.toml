@@ -3740,6 +3740,11 @@ hash = "76bba162e8645e425aad32cff3858383137064daa85c5286b1a4081510496824"
 metafile = true
 
 [[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "207a3548f31976bc53725837d9da8d56bb4a72b2f1a3731f5c7f09d68d635f2a"
+metafile = true
+
+[[files]]
 file = "mods/ae2-import-export-card.pw.toml"
 hash = "e4c225451a42377a82279c3579dddf607b139807d82127b4626fa128601ab0d4"
 metafile = true
@@ -5492,11 +5497,6 @@ metafile = true
 [[files]]
 file = "mods/silent-lib.pw.toml"
 hash = "7f281333e1c573bc3673446c291d82f3137bfc7de6a5256d61417f67be7b40bc"
-metafile = true
-
-[[files]]
-file = "mods/simple-backups.pw.toml"
-hash = "df22c747e26a80aa2f1d480168ea339e0cb15c7bf1f52f4b8900250c299137f1"
 metafile = true
 
 [[files]]
